@@ -1,5 +1,3 @@
-import { createRoot } from 'react-dom/client'
-import App from './App.tsx'
-import './index.css'
-
-createRoot(document.getElementById("root")!).render(<App />);
+// This file is intentionally left blank after removing React.
+// Alpine.js initialization is typically done in index.html
+// or in simple JS files imported there.
